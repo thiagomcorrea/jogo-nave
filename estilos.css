@@ -1,0 +1,73 @@
+body{
+	overflow-x: hidden;
+	overflow-y: hidden;
+	background-color: #000;
+}
+
+.navJog{
+	width: 40px;
+	height: 40px;
+	background-image: url('assets/nave_jog.gif');
+	position: absolute;
+}
+
+.telaMsg{
+	position: absolute;
+	margin-left: -25%;
+	top: 50px;
+	left: 50%;
+	width: 720px;
+	height: 621px;
+	display: none;
+}
+
+#medidorPlaneta{
+	border: 1px solid #000;
+	width: 300px;
+	height: 20px;
+	background-color: #fff;
+}
+#barraPlaneta{
+	width: 300px;
+	height: 20px;
+	background-color: #55f;
+}
+
+.tiroNav{
+	width: 6px;
+	height: 6px;
+	background-color: #000;
+	border-radius: 100%;
+	position: absolute;
+}
+
+.bomba{
+	width: 24px;
+	height: 40px;
+	background-image: url(assets/bomba.gif);
+	position: absolute;
+}
+
+.explosaoTerra{
+	width: 55px;
+	height: 57px;
+	position: absolute;
+}
+.explosaoAr{
+	width: 70px;
+	height: 70px;
+	position: absolute;
+}
+
+.telaMsg{
+	position: absolute;
+	margin-left: -25%;
+	top: 5px;
+	left: 50%;
+	width: 720px;
+	height: 621px;
+	display: none;
+}
+.btnJogar{
+
+}
